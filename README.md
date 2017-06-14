@@ -14,14 +14,20 @@
 ![image](https://github.com/hzj444172954/News/blob/master/images/touch_pull.png)
 
 新闻详情：
+
 ![image](https://github.com/hzj444172954/News/blob/master/images/news_detail.png)
 
 添加到喜欢：
+
 ![image](https://github.com/hzj444172954/News/blob/master/images/news_detail-1.png)
 
 分析界面：（对用户操作进行记录，提取爱好，如果加入推送功能可针对爱好推送）
 
+(执行动画)
+
 ![image](https://github.com/hzj444172954/News/blob/master/images/analysis.png)
+
+（动画执行完毕）
 
 ![image](https://github.com/hzj444172954/News/blob/master/images/analysis-1.png)
 
