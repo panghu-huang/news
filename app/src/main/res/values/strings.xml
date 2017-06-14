@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="news">新闻</string>
+    <string name="analysis">分析</string>
+    <string name="news_ent">娱乐新闻</string>
+    <string name="news_country">国内新闻</string>
+    <string name="news_game">游戏</string>
+    <string name="kefu">新闻客服</string>
+    <string name="history">浏览历史</string>
+    <string name="like">我喜欢的</string>
+    <string name="hint_input_question">输入您的问题</string>
+    <string name="send">发送</string>
+    <string name="text_last_talk_log">------上次的交谈记录------</string>
+    <string name="text_cache">清理缓存</string>
+    <string name="text_launcher">足不出户观天下</string>
+</resources>

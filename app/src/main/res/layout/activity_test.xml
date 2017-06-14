@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_test"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.hzj.news.activity.TestActivity">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="52dp"
+        android:onClick="download1"
+        android:text="下载1" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="52dp"
+        android:onClick="download2"
+        android:text="下载1" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="52dp"
+        android:onClick="getCacheSize"
+        android:text="缓存大小" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="52dp"
+        android:onClick="delete1"
+        android:text="删除1" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="52dp"
+        android:onClick="delete2"
+        android:text="删除2" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="52dp"
+        android:onClick="clear"
+        android:text="清空" />
+
+    <ImageView
+        android:id="@+id/iv_test"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:contentDescription="@string/analysis" />
+
+</LinearLayout>

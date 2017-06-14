@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.hzj.news.widget.SingleLineChart xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/line_chart"
+    android:layout_width="match_parent"
+    android:layout_height="48dp"
+    android:orientation="horizontal"
+    android:paddingLeft="30dp">
+
+    <TextView
+        android:id="@+id/tv_name"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center_vertical"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/tv_percent"
+        android:layout_width="100dp"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:textSize="16sp" />
+
+</com.hzj.news.widget.SingleLineChart>
