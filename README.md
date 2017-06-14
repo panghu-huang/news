@@ -12,6 +12,8 @@
 
 ![image](https://github.com/hzj444172954/News/blob/master/images/main1.png)
 
+下拉刷新:
+
 ![image](https://github.com/hzj444172954/News/blob/master/images/touch_pull.png)
 
 新闻详情：
