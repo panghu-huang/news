@@ -7,17 +7,17 @@
 -------- recruitment 
 
           利用Vue.js和Node.js实现的招聘网站
- 
--------- QQ-PC-
+  
+-------- QQ-PC- 
 
          QQ音乐PC端 [预览地址](http://wokeyi.club:8080) 
          如果您预览的话，因为这个项目未使用服务端渲染，首屏加载会比较慢
- 
+  
 -------- QQMusic-mobile 
 
          QQ音乐移动端 (早期项目，没有截图)
  
--------- fumulei 
+-------- fumulei   
 
          伐木累 (只完成了几个页面，没有截图)
    
